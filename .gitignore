@@ -1,0 +1,43 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+mvnw.cmd
+mvnw
+.mvn/
+
+### JRebel ###
+.rebel.xml
+
+### Sonar ###
+.scannerwork
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Others ###
+*.log
+*/log
+LOG_PATH_IS_UNDEFINED/
